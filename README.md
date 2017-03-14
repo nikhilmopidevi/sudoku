@@ -1,5 +1,5 @@
 # sudoku
-###A console based sudoku game developed using C++.
+### A console based sudoku game developed using C++.
 
 
 This is a console based application.
